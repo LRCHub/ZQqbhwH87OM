@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "【Ceui】今、歩き出す君へ。",
+  "base_artist": "Class Test",
+  "createdAt": "2025-12-01T12:20:35.604236Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今、歩き出す君へ",
+      "artist": "ceui",
+      "has_synced": false,
+      "path": "select/pl_01_今、歩き出す君へ_ceui.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "今、歩き出す君へ",
+      "artist": "ceui",
+      "has_synced": false,
+      "path": "select/pl_02_今、歩き出す君へ_ceui.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "今、歩き出す君へ",
+      "artist": "ceui",
+      "has_synced": false,
+      "path": "select/pl_03_今、歩き出す君へ_ceui.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "今、歩き出す君へ",
+      "artist": "ceui",
+      "has_synced": false,
+      "path": "select/pl_04_今、歩き出す君へ_ceui.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "今、歩き出す君へ",
+      "artist": "ceui",
+      "has_synced": false,
+      "path": "select/pl_05_今、歩き出す君へ_ceui.txt"
+    }
+  ]
+}
